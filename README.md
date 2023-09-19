@@ -2,14 +2,14 @@
   <img src="./.github/banner.png" />
 </h1>
 
-<h2 align="center">GoBarber</h2>
+<h2 align="center">GoSalao</h2>
 
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/helitonoliveiraa/gobarber?color=%23205072">
 
-  <a href="https://www.linkedin.com/in/helitonoliveira/">
-    <img alt="Made by Héliton Oliveira" src="https://img.shields.io/badge/made%20by-Héliton Oliveira-%23205072">
+  <a href="https://www.linkedin.com/in/kaio-vinicius-de-oliveira-garcia-85b4b3118/">
+    <img alt="Criado por Kaio Vinicius de Oliveira Garcia" src="https://img.shields.io/badge/made%20by-Héliton Oliveira-%23205072">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%23205072">
