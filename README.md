@@ -2,7 +2,7 @@
   <img src="./.github/banner.png" />
 </h1>
 
-<h2 align="center">GoSalao</h2>
+<h2 align="center">GoSalão</h2>
 
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 # :rocket: Sobre
 
-O GoBarber é uma aplicação completa, incluindo back-end, front-end e mobile. É uma aplicação que tem foco em gerenciar serviços de beleza como agendamentos, notificações, cadastramento de usuários.<br /> 
+O GoSalão é uma aplicação completa, incluindo back-end, front-end e mobile. É uma aplicação que tem foco em gerenciar serviços de beleza como agendamentos, notificações, cadastramento de usuários.<br /> 
 Também é possível gerenciar perfis tanto dos prestadores de serviços como também do usuário final`(cliente)`.<br /><br />
 
 Esta aplicação foi desenvolvida em paralelo com as aulas do [Bootcamp GoStack Rocketseat](https://rocketseat.com.br/), onde o intuito foi praticar e massificar os conteúdos aprendidos durante o curso.
@@ -54,7 +54,7 @@ Via terminal navegue até o diretório onde deseja baixar o projeto.
 
 ```bash
 # clone o repositório
-$ git clone git@github.com:heliton1988/gobarber.git
+$ git clone https://github.com/kaiogarcia/GoSalao.git
 ```
 
 Com o projeto já clonado, acesse a pasta do projeto.
@@ -83,20 +83,9 @@ $ cd mobile
 $ yarn 
 ```
 
-Agora, com todas as dependência já baixadas e atualizadas, e hora de preparar e configurar o ambiente para rodar o back-end da aplicação.<br />
-Você pode seguir o passo a passo no link a seguir...
-[Clique aqui](https://github.com/heliton1988/gobarber/tree/master/backend) :rewind:
-<br /><br />
-
-Para informações de como configurar e rodar o projeto web [Clique aqui](https://github.com/heliton1988/gobarber/tree/master/web) 💻
-<br /><br />
-
-Para informações de como configurar e rodar o projeto mobile [Clique aqui](https://github.com/heliton1988/gobarber/tree/master/mobile) :iphone:
-<br /><br />
-
 ## :page_facing_up: Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/heliton1988/gobarber/blob/master/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/kaiogarcia/GoSalao/blob/master/LICENSE) para mais detalhes.
 
 <br /><br />
 
-<p align="center">Feito com 💚 by <a href="https://www.linkedin.com/in/helitonoliveira/" target="_blank">Héliton Oliveira</a></p>
+<p align="center">Feito com 💚 by <a href="https://www.linkedin.com/in/kaio-vinicius-de-oliveira-garcia-85b4b3118/" target="_blank">Kaio Vinicius de Oliveira Garcia</a></p>
